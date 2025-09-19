@@ -1,0 +1,47 @@
+ideias para abas:
+
+as ideias que temos até agr são
+homepage
+sobre
+exemplos de projetos
+formulário
+
+leticia: FAQ
+-------------------------------------------------------------------------------------------- 
+ideias para o sobre(se tiver):
+
+Letícia: Quem somos, Nossa missão, fotos relacionadas
+Vinicius: Por que escolher o IBMEC? (ou na homepage)
+---------------------------------------------------------------------------------------------- 
+ideia de elementos para a home page: 
+
+(desconsiderar elementos obrigatorios como contato redes sociais navegação de abas) 
+
+leticia: carrossel com exemplos de projetos
+
+Vinicius: Seção para comentários dos projetistas. Como foi trabalhar com o ibmec, resultado do projeto e coisas assim
+
+Vinicius: perguntas mais feitas
+
+Vinicius: Por que escolher o IBMEC? (ou na página Sobre)
+
+====================================================================================== 
+ideia de elementos para o formulario:
+
+(elementos obrigatórios:
+nome
+email
+descrição do projeto)
+
+leticia:  uma parte para anexos como docs e imagens 
+uma parte para escrever qual é o publico alvo do projeto
+-----------------------------------------------------------------------------------
+ideias para a pagina de projetos:
+
+leticia: curtidas e comentarios para os projetos
+ter como pesquisar projetos pelo id e poder visualizar o status do projeto
+-----------------------------------------------------------------------------------
+Ideias Design: 
+
+Gabriel: Padronizar os headers e footers em uma pagina e colocar em todas o mesmo.
+--------------------------------------------------------------------------------------

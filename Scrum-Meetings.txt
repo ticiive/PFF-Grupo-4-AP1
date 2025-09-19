@@ -16,3 +16,168 @@ Estrutura da Reunião:
     O que farei amanhã?;
     Dificuldades e impedimentos para atingir o objetivo;
 
+Reunião dia 17/09/2025:
+
+    Letícia:
+         O que eu fiz desde a última Daily Scrum?:
+           - Comecei o arquivo do relatório das reuniões Scrum;
+           - Iniciei o processo de Brainstorm junto com o Vinicius;
+
+        O que farei amanhã?:
+            - Dar início ao mapa mental;
+            - Progredir com o Brainstorm;
+
+        Dificuldades e impedimentos para atingir o objetivo:
+            - Só eu e o Vinicius colaboramos com o brainstorm até agora, 
+            o que deixa o processo criativo mais lento e pobre;
+            - Gostaria de ter o brainstorm um pouco mais adiantado para conseguir
+            fazer mais coisa no mapa mental;
+
+    Isis:
+        O que eu fiz desde a última Daily Scrum?;
+            - Estudei a sintaxe do PlantUML e defini os tipos de diagramas que serão usados 
+            (casos de uso, classes, sequência).
+        O que farei amanhã?;
+            - Criar os primeiros rascunhos dos diagramas em PlantUML
+             (iniciando pelo diagrama de casos de uso).
+        Dificuldades e impedimentos para atingir o objetivo;
+            - Nenhum no momento
+
+    Gabriel:
+        O que eu fiz desde a última Daily Scrum?;
+            - Organizei as ideias procurando modelos visuais para para o 5w2h.
+        O que farei amanhã?;
+            - farei o documento de visao.
+        Dificuldades e impedimentos para atingir o objetivo;
+            - Dificuldade em pensar sobre oq colocar no documento de visão.
+
+    Mariana:
+        O que eu fiz desde a última Daily Scrum?;
+            - pesquisei sobre sites diferentes como base;
+        O que farei amanhã?;
+            - criar novas paginas;
+        Dificuldades e impedimentos para atingir o objetivo;
+            - Dificuldade em ter criatividade;
+
+    João:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+
+    Vinicius:
+        O que eu fiz desde a última Daily Scrum?;
+            - Procurei entender melhor o que poderia ser valido acrescentar em um site como esse, dados importantes de apresentar,
+             as possíveis abas que o site terá e procurei sites com objetivo parecido para entender o que pode ser útil
+        O que farei amanhã?;
+            - Tentarei conseguir informações que possam auxiliar o desenvolvimento do site,
+             quem é o publico alvo, o que já sabemos sobre o projeto, e o que o cliente espera do projeto.
+
+        Dificuldades e impedimentos para atingir o objetivo;
+            - Entender o que é um resultado satisfatório para o cliente
+
+======================================================================================================================
+Reunião dia 18/09/2025:
+
+    Letícia:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+
+    Isis:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+
+    Gabriel:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+
+    Mariana:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+        
+    João:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+        
+    Vinicius:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+
+=====================================================================================================================
+Reunião dia 19/09/2025:
+
+    Letícia:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+            
+    Isis:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+
+    Gabriel:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+
+    Mariana:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+        
+    João:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+        
+    Vinicius:
+        O que eu fiz desde a última Daily Scrum?;
+            -
+        O que farei amanhã?;
+            -
+        Dificuldades e impedimentos para atingir o objetivo;
+            -
+    
+   
