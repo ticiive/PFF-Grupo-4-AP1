@@ -1,0 +1,113 @@
+﻿Documento de visão
+
+
+1. Introdução
+
+* Objetivo do documento: Descrever a visão do sistema que permitirá que qualquer pessoa submeta projetos de interesse para o IBMEC, com um repositório online organizado.
+
+* Público-alvo: Alunos, professores, comunidade acadêmica e público externo interessado em propor projetos.
+
+* Escopo do sistema: O sistema será um site responsivo em que usuários poderão enviar propostas de projetos, consultar projetos já cadastrados e interagir com a plataforma.
+
+________________
+
+
+2. Posicionamento
+
+   * Oportunidade de mercado: Criar uma plataforma centralizada de coleta e gerenciamento de projetos que incentiva inovação, colaboração e desenvolvimento prático entre alunos e comunidade.
+
+   * Problema a ser resolvido: Atualmente, não há um canal estruturado para receber ideias e projetos da comunidade, o que dificulta a organização e acompanhamento.
+
+   * Proposta de solução: Desenvolver um site front-end simples, acessível e funcional, que permita cadastrar, visualizar e gerenciar projetos enviados por usuários.
+
+________________
+
+
+3. Descrição dos Stakeholders e Usuários
+
+      * Quem são os envolvidos?
+
+         * Estudantes (que podem desenvolver os projetos)
+
+         * Professores (que podem orientar ou validar propostas)
+
+         * Público externo (que pode enviar sugestões)
+
+         * Coordenação do IBMEC (que administra a plataforma)
+
+            * Necessidades e expectativas:
+
+               * Usuários: facilidade para submeter ideias e acompanhar seus projetos.
+
+               * Estudantes: ter acesso a um banco de ideias/projetos reais.
+
+               * Professores/IBMEC: organizar e filtrar projetos de interesse.
+
+________________
+
+
+4. Visão Geral do Produto
+
+                  * Principais funcionalidades:
+
+                     * Formulário para submissão de novos projetos.
+
+                     * Listagem de projetos enviados (em cards).
+
+                     * Filtro/pesquisa por área, tema ou status.
+
+                     * Área de administração para validar projetos.
+
+                        * Diferenciais em relação a soluções existentes:
+
+                           * Voltado especificamente para o ecossistema acadêmico do IBMEC.
+
+                           * Acesso aberto para propostas externas.
+
+                           * Organização clara e visual dos projetos.
+
+________________
+
+
+5. Requisitos de Alto Nível
+
+                              * Funcionais:
+
+                                 * Cadastrar projetos.
+
+                                 * Consultar projetos cadastrados.
+
+                                 * Pesquisar e filtrar projetos.
+
+                                 * Validar/editar projetos (administração).
+
+                                    * Não funcionais:
+
+                                       * Interface responsiva (desktop e mobile).
+
+                                       * Facilidade de uso (UX amigável).
+
+                                       * Performance adequada (carregamento rápido).
+
+________________
+
+
+6. Restrições e Premissas
+
+                                          * Tecnológicas: O projeto será desenvolvido com HTML, CSS e JavaScript (React).
+
+                                          * Orçamento: Limitado a recursos acadêmicos (sem custos adicionais).
+
+                                          * Tempo: Entrega até o final do semestre.
+
+
+________________
+
+
+7. Riscos e Dependências
+
+                                             * Fatores críticos:
+
+                                                * Pouco tempo de desenvolvimento pode comprometer a entrega de todas as features.
+
+                                                * Dependência do envolvimento de alunos/professores para testar e validar a solução.
