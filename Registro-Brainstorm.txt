@@ -1,3 +1,31 @@
+desenvolver projetos reais para aproximacao com o mundo real
+captar demandas reais
+paras as disciplinas extensionistas
+coletar novas demandas
+requisitos basicos para nao desestimular o cara de cadastrar o projeto
+curadoria das demandas feito pelos professores e coordenação
+fontes de demandas - startups do hubs
+indicar se a empresa está vinculada ao hubs
+DE quantos a quantos funcionarios tem essa empresa
+área de atuação
+caracterizar a demanda
+galeria
+com oq ja foi feito
+depoimentos de clientes antigos
+termos de uso
+
+Para sua apresentação da Ap1, são requisitos de documentação:
+
+1- detalhamento de scrum meetings - OK
+2- registro de brainstorm - OK
+3- mind map - OK
+4- 5w2h - OK
+5-documento de visão  - OK
+6- diagramas em plantuml de análise hierárquica de tarefas do seu site. -
+7- mockup(protótipo sem interações) do site e suas páginas no figma ( exportado como png de cada pg). - OK
+Tudo isso organizado no seu repositório Ap1 do grupo. 
+------------------------------------------------------------------------------------
+
 ideias para abas:
 
 as ideias que temos até agr são
@@ -7,13 +35,23 @@ exemplos de projetos
 formulário
 
 leticia: FAQ
+
 -------------------------------------------------------------------------------------------- 
+
+
 ideias para o sobre(se tiver):
+
 
 Letícia: Quem somos, Nossa missão, fotos relacionadas
 Vinicius: Por que escolher o IBMEC? (ou na homepage)
+
+
 ---------------------------------------------------------------------------------------------- 
+
 ideia de elementos para a home page: 
+
+leticia: os depoimentos que o thiago pediu
+leticia: descrição das matérias extensionistas que farão os projetos
 
 (desconsiderar elementos obrigatorios como contato redes sociais navegação de abas) 
 
@@ -26,7 +64,14 @@ Vinicius: perguntas mais feitas
 Vinicius: Por que escolher o IBMEC? (ou na página Sobre)
 
 ====================================================================================== 
+
 ideia de elementos para o formulario:
+
+1- vinculos ao ibmec hubs
+2- cnpj (todo cliente nao e fisico e empresa)
+3- porte da empresa (grandeza oq ela faz etc..)
+4- area de atuaçao 
+5- tipo de demanda 
 
 (elementos obrigatórios:
 nome
@@ -35,13 +80,21 @@ descrição do projeto)
 
 leticia:  uma parte para anexos como docs e imagens 
 uma parte para escrever qual é o publico alvo do projeto
+
 -----------------------------------------------------------------------------------
+
 ideias para a pagina de projetos:
+
+projetos descrição e foto 
 
 leticia: curtidas e comentarios para os projetos
 ter como pesquisar projetos pelo id e poder visualizar o status do projeto
+
 -----------------------------------------------------------------------------------
+
 Ideias Design: 
 
+
 Gabriel: Padronizar os headers e footers em uma pagina e colocar em todas o mesmo.
+
 --------------------------------------------------------------------------------------
