@@ -1,29 +1,3 @@
-desenvolver projetos reais para aproximacao com o mundo real
-captar demandas reais
-paras as disciplinas extensionistas
-coletar novas demandas
-requisitos basicos para nao desestimular o cara de cadastrar o projeto
-curadoria das demandas feito pelos professores e coordenação
-fontes de demandas - startups do hubs
-indicar se a empresa está vinculada ao hubs
-DE quantos a quantos funcionarios tem essa empresa
-área de atuação
-caracterizar a demanda
-galeria
-com oq ja foi feito
-depoimentos de clientes antigos
-termos de uso
-
-Para sua apresentação da Ap1, são requisitos de documentação:
-
-1- detalhamento de scrum meetings - OK
-2- registro de brainstorm - OK
-3- mind map - OK
-4- 5w2h - OK
-5-documento de visão  - OK
-6- diagramas em plantuml de análise hierárquica de tarefas do seu site. -
-7- mockup(protótipo sem interações) do site e suas páginas no figma ( exportado como png de cada pg). - OK
-Tudo isso organizado no seu repositório Ap1 do grupo. 
 ------------------------------------------------------------------------------------
 
 ideias para abas:
