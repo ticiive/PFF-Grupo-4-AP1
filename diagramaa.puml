@@ -1,0 +1,40 @@
+@startuml
+
+rectangle "Início" as Start
+rectangle "Homepage"
+rectangle "Galeria de Projetos"
+rectangle "Sobre nós"
+rectangle "Enviar seu projeto"
+rectangle "Formulário"
+rectangle "Preencher Informações da Empresa"
+rectangle "Preencher Informações do Projeto"
+rectangle "Concordar com os Termos"
+rectangle "Enviar"
+rectangle "Fim"
+
+'Início da navegação'
+Start --> Homepage
+
+'Opções de navegação no header da homepage'
+Homepage --> "Galeria de Projetos"
+Homepage --> "Sobre nós"
+Homepage --> "Enviar seu projeto"
+
+'galeria de projetos'
+"Galeria de Projetos" --> "Navegar pelos projetos existentes"
+
+'sobre nós'
+"Sobre nós" --> "Ler sobre a empresa"
+"Sobre nós" --> "Conhecer a missão"
+"Sobre nós" --> "Conhecer a visão"
+
+'formulário'
+"Enviar seu projeto" --> "Formulário"
+"Formulário" --> "Preencher Informações da Empresa"
+"Preencher Informações da Empresa" --> "Preencher Informações do Projeto"
+"Preencher Informações do Projeto" --> "Concordar com os Termos"
+"Concordar com os Termos" --> "Enviar"
+"Enviar" --> "Fim"
+
+
+@enduml
