@@ -5,7 +5,7 @@
 
 * Objetivo do documento: Descrever a visão do sistema que permitirá que qualquer pessoa submeta projetos de interesse para o IBMEC, com um repositório online organizado.
 
-* Público-alvo: público externo interessado em propor projetos.
+* Público-alvo: público externo interessado em propor projetos com por exemplo empresas parceiras ao ibmec.
 
 * Escopo do sistema: O sistema será um site responsivo em que usuários poderão enviar propostas de projetos, consultar projetos já cadastrados e interagir com a plataforma.
 
