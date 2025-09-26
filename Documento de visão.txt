@@ -5,7 +5,7 @@
 
 * Objetivo do documento: Descrever a visão do sistema que permitirá que qualquer pessoa submeta projetos de interesse para o IBMEC, com um repositório online organizado.
 
-* Público-alvo: público externo interessado em propor projetos com por exemplo empresas parceiras ao ibmec.
+* Público-alvo: Os professores das disciplinas extensionistas da ibmec que precisam de um acervo de projetos para trabalhar em sala e as empresas externas que enviam os projetos.
 
 * Escopo do sistema: O sistema será um site responsivo em que usuários poderão enviar propostas de projetos, consultar projetos já cadastrados e interagir com a plataforma.
 
@@ -16,9 +16,9 @@ ________________
 
    * Oportunidade de mercado: Criar uma plataforma centralizada de coleta e gerenciamento de projetos que incentiva inovação, colaboração e desenvolvimento prático entre alunos e comunidade.
 
-   * Problema a ser resolvido: Atualmente, não há um canal estruturado para receber ideias e projetos externos, o que dificulta a organização dos projetos das disciplinas extensionistas. 
+   * Problema a ser resolvido: Atualmente, há uma escassez de projetos a serem trabalhados nas disciplinas extensionistas dos cursos tech.
 
-   * Proposta de solução: Desenvolver um site front-end simples, acessível e funcional, que permita cadastrar, visualizar e gerenciar projetos enviados por usuários( empresas ).
+   * Proposta de solução: Desenvolver um site front-end simples, acessível e funcional, que permita cadastrar, visualizar e gerenciar projetos reais enviados por usuários( empresas ).
 
 ________________
 
