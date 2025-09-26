@@ -16,9 +16,9 @@ ________________
 
    * Oportunidade de mercado: Criar uma plataforma centralizada de coleta e gerenciamento de projetos que incentiva inovação, colaboração e desenvolvimento prático entre alunos e comunidade.
 
-   * Problema a ser resolvido: Atualmente, não há um canal estruturado para receber ideias e projetos da comunidade, o que dificulta a organização e acompanhamento.
+   * Problema a ser resolvido: Atualmente, não há um canal estruturado para receber ideias e projetos externos, o que dificulta a organização dos projetos das disciplinas extensionistas. 
 
-   * Proposta de solução: Desenvolver um site front-end simples, acessível e funcional, que permita cadastrar, visualizar e gerenciar projetos enviados por usuários.
+   * Proposta de solução: Desenvolver um site front-end simples, acessível e funcional, que permita cadastrar, visualizar e gerenciar projetos enviados por usuários( empresas ).
 
 ________________
 
